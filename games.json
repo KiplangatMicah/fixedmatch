@@ -1,0 +1,112 @@
+[
+    {
+        "name": "id_free_sub",
+        "date": "20/04/2025",
+        "games": [
+            {
+                "fixture": "Real Madrid VS Athletic Bilbao",
+                "prediction": "Goal Goal"
+                
+            },
+            {
+                "fixture": "Nice VS Angers",
+                "prediction": "Nice"
+            },
+            {
+                "fixture": "Borussia Dortmund VS Borussia M'gladbach",
+                "prediction": "Over 2.5",
+                "date": "20/04/2025"
+            }
+        ]
+    },
+    {
+        "name": "id_basic_sub",
+        "date": "13/03/2025",
+        "games": [
+            {
+                "fixture": "Lyon VS FCSB",
+                "prediction": "1 & Over 2.5"
+            },
+            {
+                "fixture": "Chelsea VS Copenhagen",
+                "prediction": "Chelsea"
+            },
+            {
+                "fixture": "Vitoria VS Real Betis",
+                "prediction": "Over 1.5"
+            }
+        ]
+    },
+    {
+        "name": "id_standard_sub",
+        "date": "13/03/2025",
+        "games": [
+            {
+                "fixture": "Chelsea VS Copenhagen",
+                "prediction": "1 & Over 2.5"
+            },
+            {
+                "fixture": "Fiorentina VS Panathinaikos",
+                "prediction": "Over 2.5"
+            },
+            {
+                "fixture": "Vitoria VS Real Betis",
+                "prediction": "Real Betis"
+            }
+        ]
+    },
+    {
+        "name": "id_premium_sub",
+        "date": "13/03/2025",
+        "games": [
+            {
+                "fixture": "Legia Warszawa VS Molde",
+                "prediction": "Molde"
+            },
+            {
+                "fixture": "Lyon VS FCSB",
+                "prediction": "Over 2.5"
+            },
+            {
+                "fixture": "Bouri SC VS Ittifaq Maqaba",
+                "prediction": "Draw"
+            }
+        ]
+    },
+    {
+        "name": "id_correctScore_sub",
+        "date": "13/03/2025",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5"
+            }
+        ]
+    },
+    {
+        "name": "id_jackpot_sub",
+        "date": "13/03/2025",
+        "games": [
+            {
+                "fixture": "Bouri SC VS Ittifaq Maqaba",
+                "prediction": "Draw"
+            },
+            {
+                "fixture": "Rapid Wien VS Borac",
+                "prediction": "1X"
+            },
+            {
+                "fixture": "Ittihad Jeddah VS Al Riyadh SC",
+                "prediction": "1 & Over 2.5"
+            }
+        ]
+    }
+]
