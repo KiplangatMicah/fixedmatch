@@ -1,0 +1,143 @@
+[
+    {
+        "date": "Saturday, 19th April 2025",
+        "gamesList": [
+            {
+                "fixture": "APOEL FC VS Olympiakos Nic.",
+                "prediction": "HT/FT 1/1",
+                "odds": "6.22",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Guarulhos U20 VS Flamengo SP U20",
+                "prediction": "CS 0-1",
+                "odds": "4.92",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Uniao Suzano U20 VS Novorizontino U20",
+                "prediction": "HT/FT X/2",
+                "odds": "5.47",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Ittihad Tanger VS Mouloudia Oujda",
+                "prediction": "CS 4.25",
+                "odds": "4.25",
+                "results": "WIN"
+            },
+            {
+                "fixture": "OFI Creta VS Volos NFC",
+                "prediction": "Under 0.5",
+                "odds": "6.57",
+                "results": "WIN"
+            }
+        ]
+    },
+    {
+        "date": "Friday, 18th April 2025",
+        "gamesList": [
+            {
+                "fixture": "Chapelton VS Arnett Gardens",
+                "prediction": "No GG & Over 4.5",
+                "odds": "7.04",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Wellington Phoenix W VS WS Wanderers W",
+                "prediction": "Darw",
+                "odds": "3.45",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Wellington Phoenix VS Melbourne City",
+                "prediction": "HT/FT X/2",
+                "odds": "4.29",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Adelaide United VS Perth Glory",
+                "prediction": "CS 4.25",
+                "odds": "4.25",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Al Qaisoma VS Al Akhdood",
+                "prediction": "GG & Draw",
+                "odds": "3.97",
+                "results": "WIN"
+            }
+        ]
+    },
+    {
+        "date": "Thurday, 17th April 2024",
+        "gamesList": [
+            {
+                "fixture": "CD Huarte VS CD Ardoi",
+                "prediction": "Under 0.5",
+                "odds": "6.35",
+                "results": "WIN"
+            },
+            {
+                "fixture": "FC Penafiel VS SC Farense",
+                "prediction": "CS 0-2",
+                "odds": "6.04",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Univ de Chile VS Cobresal",
+                "prediction": "Over 6.5",
+                "odds": "4.66",
+                "results": "WIN"
+            },
+            {
+                "fixture": "CO Korhogo VS SOL FC",
+                "prediction": "Fixed Draw",
+                "odds": "3.45",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Ingolstadt II VS Schwaben Augsburg",
+                "prediction": "GG & Over 4.5",
+                "odds": "5.37",
+                "results": "WIN"
+            }
+        ]
+    },
+    {
+        "date": "Wednesday, 16th April 2024",
+        "gamesList": [
+            {
+                "fixture": "USC Paredes VS AD Sanjoanense",
+                "prediction": "Over 4.5 & GG",
+                "odds": "4.02",
+                "results": "WIN"
+            },
+            {
+                "fixture": "East Bengal VS Chennaiyin",
+                "prediction": "HT Draw",
+                "odds": "2.34",
+                "results": "WIN"
+            },
+            {
+                "fixture": "AS Sale VS JS Massira",
+                "prediction": "CS 1-2",
+                "odds": "7.06",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Ethnikos Achnas VS Ypsonas FC",
+                "prediction": "Ov 3.5",
+                "odds": "3.45",
+                "results": "WIN"
+            },
+            {
+                "fixture": "Yarmouk (KUW) VS Sulaibikhat",
+                "prediction": "Under 0.5 GoalsG",
+                "odds": "5.57",
+                "results": "WIN"
+            }
+        ]
+    }
+   
+]
