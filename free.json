@@ -2,43 +2,43 @@
    {
     "id": "cr_1489106",
     "teamA": {
-      "name": "Real Madrid",
+      "name": "Tottenham Hotspur",
       "icon": "https://media.api-sports.io/football/teams/826.png"
     },
     "teamB": {
-      "name": "Gatafe",
+      "name": "Crystal Palace",
       "icon": "https://media.api-sports.io/football/teams/819.png"
     },
-    "leagueName": "Primera División Costa-Rica",
-    "prediction": "Home win",
-    "date": "2026-01-23"
+    "leagueName": "English Premier League",
+    "prediction": "Home  Or Draw",
+    "date": "2026-03-05"
   },
   {
     "id": "gt_1499122",
     "teamA": {
-      "name": "Guastatoya",
+      "name": "Lyon",
       "icon": "https://media.api-sports.io/football/teams/3662.png"
     },
     "teamB": {
-      "name": "Mixco",
+      "name": "Lens",
       "icon": "https://media.api-sports.io/football/teams/3645.png"
     },
-    "leagueName": "Liga Nacional Guatemala",
-    "prediction": "HOME WIN",
-    "date": "2026-01-23"
+    "leagueName": "Coupe de France",
+    "prediction": "Draw or Away",
+    "date": "2026-03-05"
   },
   {
     "id": "br_acre_1500993",
     "teamA": {
-      "name": "Rio Branco",
+      "name": "Damac",
       "icon": "https://media.api-sports.io/football/teams/2220.png"
     },
     "teamB": {
-      "name": "Galvez",
+      "name": "Al Riyadh",
       "icon": "https://media.api-sports.io/football/teams/1228.png"
     },
-    "leagueName": "Acreano Brazil",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "leagueName": "Saudi Pro League",
+    "prediction": "Home or Draw",
+    "date": "2026-03-05"
   }
 ]
