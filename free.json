@@ -2,15 +2,15 @@
    {
     "id": "cr_1489106",
     "teamA": {
-      "name": "Municipal Liberia",
+      "name": "Real Madrid",
       "icon": "https://media.api-sports.io/football/teams/826.png"
     },
     "teamB": {
-      "name": "Perez Zeledon",
+      "name": "Gatafe",
       "icon": "https://media.api-sports.io/football/teams/819.png"
     },
     "leagueName": "Primera División Costa-Rica",
-    "prediction": "DRAW",
+    "prediction": "Home win",
     "date": "2026-01-23"
   },
   {
