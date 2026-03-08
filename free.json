@@ -2,43 +2,43 @@
    {
     "id": "cr_1489106",
     "teamA": {
-      "name": "Tottenham Hotspur",
+      "name": "US Lecce",
       "icon": "https://media.api-sports.io/football/teams/826.png"
     },
     "teamB": {
-      "name": "Crystal Palace",
+      "name": "US Cremonese",
       "icon": "https://media.api-sports.io/football/teams/819.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "Home  Or Draw",
-    "date": "2026-03-05"
+    "leagueName": "Serie A",
+    "prediction": "GG",
+    "date": "2026-03-08"
   },
   {
     "id": "gt_1499122",
     "teamA": {
-      "name": "Lyon",
+      "name": "Bologna FC",
       "icon": "https://media.api-sports.io/football/teams/3662.png"
     },
     "teamB": {
-      "name": "Lens",
+      "name": "Hellas Verona",
       "icon": "https://media.api-sports.io/football/teams/3645.png"
     },
-    "leagueName": "Coupe de France",
-    "prediction": "Draw or Away",
-    "date": "2026-03-05"
+    "leagueName": "Serie A",
+    "prediction": "Home or Draw",
+    "date": "2026-03-08"
   },
   {
     "id": "br_acre_1500993",
     "teamA": {
-      "name": "Damac",
+      "name": "Genoa CFC",
       "icon": "https://media.api-sports.io/football/teams/2220.png"
     },
     "teamB": {
-      "name": "Al Riyadh",
+      "name": "AS Roma",
       "icon": "https://media.api-sports.io/football/teams/1228.png"
     },
-    "leagueName": "Saudi Pro League",
-    "prediction": "Home or Draw",
+    "leagueName": "Serie A",
+    "prediction": "Away or Draw",
     "date": "2026-03-05"
   }
 ]
