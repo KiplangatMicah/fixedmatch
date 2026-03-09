@@ -2,43 +2,43 @@
    {
     "id": "cr_1489106",
     "teamA": {
-      "name": "US Lecce",
+      "name": "Espanyol Barcelona",
       "icon": "https://media.api-sports.io/football/teams/826.png"
     },
     "teamB": {
-      "name": "US Cremonese",
+      "name": "Real Oviedo",
       "icon": "https://media.api-sports.io/football/teams/819.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "LaLiga",
     "prediction": "GG",
-    "date": "2026-03-08"
+    "date": "2026-03-09"
   },
   {
     "id": "gt_1499122",
     "teamA": {
-      "name": "Bologna FC",
+      "name": "Lazio Rome",
       "icon": "https://media.api-sports.io/football/teams/3662.png"
     },
     "teamB": {
-      "name": "Hellas Verona",
+      "name": "Sassuolo Calcio",
       "icon": "https://media.api-sports.io/football/teams/3645.png"
     },
     "leagueName": "Serie A",
     "prediction": "Home or Draw",
-    "date": "2026-03-08"
+    "date": "2026-03-09"
   },
   {
     "id": "br_acre_1500993",
     "teamA": {
-      "name": "Genoa CFC",
+      "name": "West Ham United",
       "icon": "https://media.api-sports.io/football/teams/2220.png"
     },
     "teamB": {
-      "name": "AS Roma",
+      "name": "Brentford FC",
       "icon": "https://media.api-sports.io/football/teams/1228.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "England FA CUp",
     "prediction": "Away or Draw",
-    "date": "2026-03-05"
+    "date": "2026-03-09"
   }
 ]
