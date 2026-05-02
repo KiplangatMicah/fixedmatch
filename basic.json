@@ -1,86 +1,114 @@
 [
-   {
-    "id": "cr_1489106",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/826.png"
-    },
-    "teamB": {
-      "name": "Inter Milano",
-      "icon": "https://media.api-sports.io/football/teams/819.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "HOME OR DRAW",
-    "date": "2026-03-08"
-  },
   {
-    "id": "gt_1499122",
+    "id": "epl_1503001",
     "teamA": {
-      "name": "Villarreal CF",
-      "icon": "https://media.api-sports.io/football/teams/3662.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
     "teamB": {
-      "name": "Elche CF",
-      "icon": "https://media.api-sports.io/football/teams/3645.png"
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
-    "leagueName": "LaLiga",
+    "leagueName": "Premier League",
     "prediction": "HOME WIN",
-    "date": "2026-03-08"
+    "date": "2026-05-02"
   },
   {
-    "id": "br_acre_1500993",
+    "id": "epl_1503002",
     "teamA": {
-      "name": "Getafe CF",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
+      "name": "Newcastle United",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
     "teamB": {
-      "name": "Real Betis Seville",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
+      "name": "Brighton",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
-    "leagueName": "LaLiga",
-    "prediction": "GG",
-    "date": "2026-03-08"
-  },
-   {
-    "id": "br_acre_1500993",
-    "teamA": {
-      "name": "Sevilla FC",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
-    },
-    "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
-    },
-    "leagueName": "LaLiga",
-    "prediction": "GG",
-    "date": "2026-03-08"
-  },
-   {
-    "id": "br_acre_1500993",
-    "teamA": {
-      "name": "Valencia CF",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
-    },
-    "teamB": {
-      "name": "Deportivo Alaves",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
-    },
-    "leagueName": "LaLiga",
+    "leagueName": "Premier League",
     "prediction": "HOME OR DRAW",
-    "date": "2026-01-23"
+    "date": "2026-05-02"
   },
-   {
-    "id": "br_acre_1500993",
+  {
+    "id": "lig1_1503003",
     "teamA": {
-      "name": "Lille OSC",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
+      "name": "Paris Saint Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
       "name": "FC Lorient",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
+      "icon": "https://media.api-sports.io/football/teams/273.png"
     },
     "leagueName": "Ligue 1",
     "prediction": "HOME WIN",
-    "date": "2026-01-23"
+    "date": "2026-05-02"
+  },
+  {
+    "id": "lig1_1503004",
+    "teamA": {
+      "name": "Metz",
+      "icon": "https://media.api-sports.io/football/teams/112.png"
+    },
+    "teamB": {
+      "name": "AS Monaco",
+      "icon": "https://media.api-sports.io/football/teams/91.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "AWAY WIN",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "sa_1503005",
+    "teamA": {
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "teamB": {
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "sa_1503006",
+    "teamA": {
+      "name": "Como",
+      "icon": "https://media.api-sports.io/football/teams/895.png"
+    },
+    "teamB": {
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/492.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "AWAY OR DRAW",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "sa_1503007",
+    "teamA": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
+    },
+    "teamB": {
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/495.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "HOME WIN",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "lig1_1503008",
+    "teamA": {
+      "name": "Nice",
+      "icon": "https://media.api-sports.io/football/teams/93.png"
+    },
+    "teamB": {
+      "name": "Lens",
+      "icon": "https://media.api-sports.io/football/teams/116.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "GG",
+    "date": "2026-05-02"
   }
 ]
