@@ -1,86 +1,44 @@
 [
   {
-    "id": "il_sa_1456796",
+    "id": "pl_ars_ful_2026",
     "teamA": {
-      "name": "Hapoel Herzliya",
-      "icon": "https://media.api-sports.io/football/teams/6153.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
     "teamB": {
-      "name": "Hapoel Ramat HaSharon",
-      "icon": "https://media.api-sports.io/football/teams/4490.png"
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
-    "leagueName": "Liga Alef South Israel",
-    "prediction": "2-1",
-    "date": "2026-01-23"
+    "leagueName": "Premier League",
+    "prediction": "2-0",
+    "date": "2026-05-02"
   },
   {
-    "id": "ir_pgpl_1488693",
+    "id": "pl_new_bha_2026",
     "teamA": {
-      "name": "Esteghlal Khuzestan",
-      "icon": "https://media.api-sports.io/football/teams/2739.png"
+      "name": "Newcastle United",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
     "teamB": {
-      "name": "Paykan",
-      "icon": "https://media.api-sports.io/football/teams/2741.png"
+      "name": "Brighton",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
-    "leagueName": "Persian Gulf Pro League Iran",
+    "leagueName": "Premier League",
     "prediction": "1-1",
-    "date": "2026-01-23"
+    "date": "2026-05-02"
   },
   {
-    "id": "il_ligatha'al_1389723",
+    "id": "sa_ata_gen_2026",
     "teamA": {
-      "name": "Hapoel Katamon",
-      "icon": "https://media.api-sports.io/football/teams/4486.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
     },
     "teamB": {
-      "name": "Hapoel Petah Tikva",
-      "icon": "https://media.api-sports.io/football/teams/4488.png"
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/495.png"
     },
-    "leagueName": "Ligat Ha'al Israel",
+    "leagueName": "Serie A",
     "prediction": "2-0",
-    "date": "2026-01-23"
-  },
-  {
-    "id": "id_liga1_1403716",
-    "teamA": {
-      "name": "Persija",
-      "icon": "https://media.api-sports.io/football/teams/10134.png"
-    },
-    "teamB": {
-      "name": "Persepam Madura Utd",
-      "icon": "https://media.api-sports.io/football/teams/2444.png"
-    },
-    "leagueName": "Liga 1 Indonesia",
-    "prediction": "2-1",
-    "date": "2026-01-23"
-  },
-  {
-    "id": "il_na_1456551",
-    "teamA": {
-      "name": "Hapoel Ironi Arraba",
-      "icon": "https://media.api-sports.io/football/teams/22334.png"
-    },
-    "teamB": {
-      "name": "Maccabi Neve Sha'anan",
-      "icon": "https://media.api-sports.io/football/teams/6197.png"
-    },
-    "leagueName": "Liga Alef North Israel",
-    "prediction": "1-0",
-    "date": "2026-01-23"
-  },
-  {
-    "id": "ir_pgpl_1488695",
-    "teamA": {
-      "name": "Gol Gohar",
-      "icon": "https://media.api-sports.io/football/teams/2714.png"
-    },
-    "teamB": {
-      "name": "Fajr Sepasi",
-      "icon": "https://media.api-sports.io/football/teams/2713.png"
-    },
-    "leagueName": "Persian Gulf Pro League Iran",
-    "prediction": "2-0",
-    "date": "2026-01-23"
+    "date": "2026-05-02"
   }
 ]
