@@ -1,44 +1,44 @@
 [
-   {
-    "id": "cr_1489106",
+  {
+    "id": "pl_20260502_001",
     "teamA": {
-      "name": "Espanyol Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/826.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
     "teamB": {
-      "name": "Real Oviedo",
-      "icon": "https://media.api-sports.io/football/teams/819.png"
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
-    "leagueName": "LaLiga",
-    "prediction": "GG",
-    "date": "2026-03-09"
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2026-05-02"
   },
   {
-    "id": "gt_1499122",
+    "id": "pl_20260502_002",
     "teamA": {
-      "name": "Lazio Rome",
-      "icon": "https://media.api-sports.io/football/teams/3662.png"
+      "name": "Newcastle United",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
     "teamB": {
-      "name": "Sassuolo Calcio",
-      "icon": "https://media.api-sports.io/football/teams/3645.png"
+      "name": "Brighton",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "DRAW",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "sa_20260502_003",
+    "teamA": {
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "teamB": {
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
     "leagueName": "Serie A",
-    "prediction": "Home or Draw",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "br_acre_1500993",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
-    },
-    "teamB": {
-      "name": "Brentford FC",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
-    },
-    "leagueName": "England FA CUp",
-    "prediction": "Away or Draw",
-    "date": "2026-03-09"
+    "prediction": "HOME OR DRAW",
+    "date": "2026-05-02"
   }
 ]
